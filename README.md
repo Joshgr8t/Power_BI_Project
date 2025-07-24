@@ -1,3 +1,3 @@
-# Power_BI_Project
+# Life Expectancy Dashboard
 ## Health Expectancy
 
